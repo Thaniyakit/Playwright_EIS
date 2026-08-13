@@ -14,7 +14,7 @@ program will run in background(headless)
 Folder Sturcture should be
 - data
 	- raw[%m-%Y]
-	- cleand[%m-%Y]
+	- cleaned[%m-%Y]
 - src
 	- __init__.py
 	- main.py
